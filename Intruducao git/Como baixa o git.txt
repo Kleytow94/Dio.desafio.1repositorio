@@ -1,0 +1,3 @@
+Primeiro voçê entra no Site oficial: https://git-scm.com/
+Baixa e instalar.
+Git e um sistema de versionamento de arquivos.

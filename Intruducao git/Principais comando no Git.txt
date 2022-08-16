@@ -1,0 +1,9 @@
+Git Init : criar um novo repositório do git, pode ser usado para converter um projeto existente e não vercionado em um repositório do git ou inicilizar um novo repositório vazio.
+Git Add . : Prepara o arquivo para o Commit.
+Git Commit -m"mensagens" : Prepara os arquivos para o versionamento.
+Git reset --hard : "Codigo do Git reflog" Usado para restaura o arquivo anterior, por causa de erro.
+Git Branch : Para criar uma nova Branch.
+Git Clone : Clona um repositório da internet para sua maquína.
+Git Status : Para saber algumas informações sobre a ramificação na qual você está trabalhando agora, use o “status”. Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal. Exemplo: “git status”
+Git Push : O push serve para subir as alterações de uma ramificação para um certo repositório. Ele entrega todos os commits e a mensagem. Exemplo: “git push”
+Git Pull : Antes de começar a programar em algum repositório, é bom também executar um “pull”. Esse comando traz para a sua máquina todas as mudanças que foram realizadas na plataforma. Ou seja, é uma forma de atualizar a sua versão da aplicação com o que foi alterado remotamente.
